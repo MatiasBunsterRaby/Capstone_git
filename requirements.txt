@@ -1,0 +1,13 @@
+uvicorn
+python-multipart
+fastapi
+nest-asyncio
+jupyterlab
+joblib
+scikit-learn
+pandas
+numpy
+ipykernel
+pytest
+pyarrow
+scipy
