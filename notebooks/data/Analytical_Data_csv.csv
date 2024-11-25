@@ -1,0 +1,154 @@
+Dominio;Nombre_Dominio;Variable_per;Detalle_Dominio
+Domain_1;External Relations;per101;Foreign Special Relationships: Positive
+Domain_1;External Relations;per102;Foreign Special Relationships: Negative
+Domain_1;External Relations;per103;Anti-Imperialism
+Domain_1;External Relations;per104;Military: Positive
+Domain_1;External Relations;per105;Military: Negative
+Domain_1;External Relations;per106;Peace
+Domain_1;External Relations;per107;Internationalism: Positive
+Domain_1;External Relations;per108;European Community/Union: Positive
+Domain_1;External Relations;per109;Internationalism: Negative
+Domain_1;External Relations;per110;European Community/Union: Negative
+Domain_2;Freedom and Democracy;per201;Freedom and Human Rights
+Domain_2;Freedom and Democracy;per202;Democracy
+Domain_2;Freedom and Democracy;per203;Constitutionalism: Positive
+Domain_2;Freedom and Democracy;per204;Constitutionalism: Negative
+Domain_3;Political System;per301;Decentralization
+Domain_3;Political System;per302;Centralisation
+Domain_3;Political System;per303;Governmental and Administrative Efficiency
+Domain_3;Political System;per304;Political Corruption
+Domain_3;Political System;per305;Political Authority
+Domain_4;Economy;per401;Free Market Economy
+Domain_4;Economy;per402;Incentives: Positive
+Domain_4;Economy;per403;Market Regulation
+Domain_4;Economy;per404;Economic Planning
+Domain_4;Economy;per405;Corporatism/Mixed Economy
+Domain_4;Economy;per406;Protectionism: Positive
+Domain_4;Economy;per407;Protectionism: Negative
+Domain_4;Economy;per408;Economic Goals
+Domain_4;Economy;per409;Keynesian Demand Management
+Domain_4;Economy;per410;Economic Growth: Positive
+Domain_4;Economy;per411;Technology and Infrastructure: Positive
+Domain_4;Economy;per412;Controlled Economy
+Domain_4;Economy;per413;Nationalisation
+Domain_4;Economy;per414;Economic Orthodoxy
+Domain_4;Economy;per415;Marxist Analysis
+Domain_4;Economy;per416;Anti-Growth Economy: Positive
+Domain_5;Welfare and Quality of Life;per501;Environmental Protection
+Domain_5;Welfare and Quality of Life;per502;Culture: Positive
+Domain_5;Welfare and Quality of Life;per503;Equality: Positive
+Domain_5;Welfare and Quality of Life;per504;Welfare State Expansion
+Domain_5;Welfare and Quality of Life;per505;Welfare State Limitation
+Domain_5;Welfare and Quality of Life;per506;Education Expansion
+Domain_5;Welfare and Quality of Life;per507;Education Limitation
+Domain 6;Fabric of Society;per601;National Way of Life: Positive
+Domain 6;Fabric of Society;per602;National Way of Life: Negative
+Domain 6;Fabric of Society;per603;Traditional Morality: Positive
+Domain 6;Fabric of Society;per604;Traditional Morality: Negative
+Domain 6;Fabric of Society;per605;Law and Order: Positive
+Domain 6;Fabric of Society;per606;Civic Mindedness: Positive
+Domain 6;Fabric of Society;per607;Multiculturalism: Positive
+Domain 6;Fabric of Society;per608;Multiculturalism: Negative
+Domain_7;Social Groups;per701;Labour Groups: Positive
+Domain_7;Social Groups;per702;Labour Groups: Negative
+Domain_7;Social Groups;per703;Agriculture and Farmers: Positive
+Domain_7;Social Groups;per704;Middle Class and Professional Groups
+Domain_7;Social Groups;per705;Underprivileged Minority Groups
+Domain_7;Social Groups;per706;Non-economic Demographic Groups
+Domain_1;External Relations;per1011;Russia/USSR/CIS: Positive
+Domain_1;External Relations;per1012;Western States: Positive
+Domain_1;External Relations;per1013;Eastern European Countries: Positive
+Domain_1;External Relations;per1014;Baltic States: Positive
+Domain_1;External Relations;per1015;Nordic Council: Positive
+Domain_1;External Relations;per1016;SFR Yugoslavia: Positive
+Domain_1;External Relations;per1021;Russia/USSR/CIS: Negative
+Domain_1;External Relations;per1022;Western States: Negative
+Domain_1;External Relations;per1023;East European Countries: Negative
+Domain_1;External Relations;per1024;Baltic States: Negative
+Domain_1;External Relations;per1025;Nordic Council: Negative
+Domain_1;External Relations;per1026;SFR Yugoslavia: Negative
+Domain_1;External Relations;per1031;Russian Army: Negative
+Domain_1;External Relations;per1032;Independence: Positive
+Domain_1;External Relations;per1033;Rights of Nations: Positive
+Domain_2;Freedom and Democracy;per2021;Transition to Democracy
+Domain_2;Freedom and Democracy;per2022;Restrictive Citizenship: Positive
+Domain_2;Freedom and Democracy;per2023;Lax Citizenship: Positive
+Domain_2;Freedom and Democracy;per2031;Presidential Regime: Positive
+Domain_2;Freedom and Democracy;per2032;Republic: Positive
+Domain_2;Freedom and Democracy;per2033;Checks and Balances: Positive
+Domain_2;Freedom and Democracy;per2041;Monarchy: Positive
+Domain_3;Political System;per3011;Republican Powers: Positive
+Domain_3;Political System;per3051;Public Situation: Negative
+Domain_3;Political System;per3052;Communist: Positive
+Domain_3;Political System;per3053;Communist: Negative
+Domain_3;Political System;per3054;Rehabilitation and Compensation: Positive
+Domain_3;Political System;per3055;Political Coalitions: Positive
+Domain_4;Economy;per4011;Privatisation: Positive
+Domain_4;Economy;per4012;Control of Economy: Negative
+Domain_4;Economy;per4013;Property-Restitution: Positive
+Domain_4;Economy;per4014;Privatisation Vouchers: Positive
+Domain_4;Economy;per4121;Social Ownership: Positive
+Domain_4;Economy;per4122;Mixed Economy: Positive
+Domain_4;Economy;per4123;Publicly-Owned Industry: Positive
+Domain_4;Economy;per4124;Socialist Property: Positive
+Domain_4;Economy;per4131;Property-Restitution: Negative
+Domain_4;Economy;per4132;Privatisation: Negative
+Domain_5;Welfare and Quality of Life;per5021;Private-Public Mix in Culture: Positive
+Domain_5;Welfare and Quality of Life;per5031;Private-Public Mix in Social Justice: Positive
+Domain_5;Welfare and Quality of Life;per5041;Private-Public Mix in Welfare: Positive
+Domain_5;Welfare and Quality of Life;per5061;Private-Public Mix in Education: Positive
+Domain 6;Fabric of Society;per6011;The Karabakh Issue: Positive
+Domain 6;Fabric of Society;per6012;Rebuilding the USSR: Positive
+Domain 6;Fabric of Society;per6013;National Security: Positive
+Domain 6;Fabric of Society;per6014;Cyprus Issue
+Domain 6;Fabric of Society;per6061;General Crisis
+Domain 6;Fabric of Society;per6071;Cultural Autonomy: Positive
+Domain 6;Fabric of Society;per6072;Multiculturalism pro Roma: Positive
+Domain 6;Fabric of Society;per6081;Multiculturalism pro Roma: Negative
+Domain_7;Social Groups;per7051;Minorities Inland: Positive
+Domain_7;Social Groups;per7052;Minorities Abroad: Positive
+Domain_7;Social Groups;per7061;War Participants: Positive
+Domain_7;Social Groups;per7062;Refugees: Positive
+Domain_1;External Relations;per103_1;Anti-Imperialism: State Centred Anti-Imperialism
+Domain_1;External Relations;per103_2;Anti-Imperialism: Foreign Financial Influence
+Domain_2;Freedom and Democracy;per201_1;Freedom
+Domain_2;Freedom and Democracy;per201_2;Human Rights
+Domain_2;Freedom and Democracy;per202_1;Democracy General: Positive
+Domain_2;Freedom and Democracy;per202_2;Democracy General: Negative
+Domain_2;Freedom and Democracy;per202_3;Representative Democracy: Positive
+Domain_2;Freedom and Democracy;per202_4;Direct Democracy: Positive
+Domain_3;Political System;per305_1;Political Authority: Party Competence
+Domain_3;Political System;per305_2;Political Authority: Personal Competence
+Domain_3;Political System;per305_3;Political Authority: Strong government
+Domain_3;Political System;per305_4;Transition: Pre-Democratic Elites: Positive
+Domain_3;Political System;per305_5;Transition: Pre-Democratic Elites: Negative
+Domain_3;Political System;per305_6;Transition: Rehabilitation and Compensation
+Domain_4;Economy;per416_1;Anti-Growth Economy: Positive
+Domain_4;Economy;per416_2;Sustainability: Positive
+Domain 6;Fabric of Society;per601_1;National Way of Life General: Positive
+Domain 6;Fabric of Society;per601_2;National Way of Life: Immigration: Negative
+Domain 6;Fabric of Society;per602_1;National Way of Life General: Negative
+Domain 6;Fabric of Society;per602_2;National Way of Life: Immigration: Positive
+Domain 6;Fabric of Society;per605_1;Law and Order: Positive
+Domain 6;Fabric of Society;per605_2;Law and Order: Negative
+Domain 6;Fabric of Society;per606_1;Civic Mindedness General: Positive
+Domain 6;Fabric of Society;per606_2;Civic Mindedness: Bottom-Up Activism
+Domain 6;Fabric of Society;per607_1;Multiculturalism General: Positive
+Domain 6;Fabric of Society;per607_2;Multiculturalism: Immigrants Diversity
+Domain 6;Fabric of Society;per607_3;Multiculturalism: Indigenous rights: Positive
+Domain 6;Fabric of Society;per608_1;Multiculturalism General: Negative
+Domain 6;Fabric of Society;per608_2;Multiculturalism: Immigrants Assimilation
+Domain 6;Fabric of Society;per608_3;Multiculturalism: Indigenous rights: Negative
+Domain_7;Social Groups;per703_1;Agriculture and Farmers: Positive
+Domain_7;Social Groups;per703_2;Agriculture and Farmers: Negative
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
