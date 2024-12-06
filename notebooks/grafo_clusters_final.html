@@ -317,5 +317,22 @@ function highlightFilter(filter) {
               }
               drawGraph();
         </script>
-    </body>
+    
+    <div style="position: absolute; top: 10px; right: 10px; background-color: white; border: 1px solid black; padding: 10px; z-index: 1000;">
+        <ul style="list-style-type: none; padding-left: 0;">
+            <li><strong>Nodos:</strong> Países</li>
+            <li><strong>Tamaño:</strong> Grado del nodo (cantidad de conexiones)</li>
+            <li><strong>Color:</strong> Comunidad detectada</li>
+            <li><strong>Aristas:</strong> Coincidencias entre países</li>
+            <li><strong>Grosor:</strong> Peso de la conexión (coincidencias >= 10)</li>
+        </ul>
+    </div>
+    
+
+    <div style="position: absolute; top: 10px; left: 10px; background-color: white; border: 1px solid black; padding: 10px; z-index: 1000;">
+        <h4>Comunidades en la Red de Coincidencias (Louvain)</h4>
+        <h4>Drogas y Corrupción (1949 a 2022)</h4>
+    </div>
+    
+</body>
 </html>
